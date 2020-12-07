@@ -1,0 +1,69 @@
+There are a total of 1990 GU motifs in the covid19 sequence.
+There are a total of 700 GUU motifs in the covid19 sequence.
+There are a total of 190 GUGU motifs in the covid19 sequence.
+There are a total of 69 GUUGU motifs in the covid19 sequence.
+There are a total of 35 GUGUG motifs in the covid19 sequence.
+There are a total of 1 GUUGUGUG motifs in the covid19 sequence.
+There are a total of 2 GUGUGUG motifs in the covid19 sequence.
+The covid19 genome is 29903 nucleotides-long.
+
+There are a total of 1871 GU motifs in the SARS sequence.
+There are a total of 586 GUU motifs in the SARS sequence.
+There are a total of 177 GUGU motifs in the SARS sequence.
+There are a total of 53 GUUGU motifs in the SARS sequence.
+There are a total of 37 GUGUG motifs in the SARS sequence.
+There are a total of 1 GUUGUGUG motifs in the SARS sequence.
+There are a total of 5 GUGUGUG motifs in the SARS sequence.
+The SARS genome is 29751 nucleotides-long.
+
+There are a total of 2117 GU motifs in the MERS sequence.
+There are a total of 744 GUU motifs in the MERS sequence.
+There are a total of 192 GUGU motifs in the MERS sequence.
+There are a total of 80 GUUGU motifs in the MERS sequence.
+There are a total of 57 GUGUG motifs in the MERS sequence.
+There are a total of 2 GUUGUGUG motifs in the MERS sequence.
+There are a total of 1 GUGUGUG motifs in the MERS sequence.
+The MERS genome is 30105 nucleotides-long.
+
+There are a total of 406 GU motifs in the HIV1 sequence.
+There are a total of 88 GUU motifs in the HIV1 sequence.
+There are a total of 19 GUGU motifs in the HIV1 sequence.
+There are a total of 4 GUUGU motifs in the HIV1 sequence.
+There are a total of 10 GUGUG motifs in the HIV1 sequence.
+There are a total of 2 GUUGUGUG motifs in the HIV1 sequence.
+There are a total of 1 GUGUGUG motifs in the HIV1 sequence.
+The HIV1 genome is 9181 nucleotides-long.
+
+There are a total of 15684 GU motifs in the HCMV_TR sequence.
+There are a total of 3419 GUU motifs in the HCMV_TR sequence.
+There are a total of 1134 GUGU motifs in the HCMV_TR sequence.
+There are a total of 292 GUUGU motifs in the HCMV_TR sequence.
+There are a total of 315 GUGUG motifs in the HCMV_TR sequence.
+There are a total of 5 GUUGUGUG motifs in the HCMV_TR sequence.
+There are a total of 31 GUGUGUG motifs in the HCMV_TR sequence.
+The HCMV_TR genome is 235681 nucleotides-long.
+
+There are a total of 15771 GU motifs in the HCMV_ME sequence.
+There are a total of 3457 GUU motifs in the HCMV_ME sequence.
+There are a total of 1143 GUGU motifs in the HCMV_ME sequence.
+There are a total of 315 GUUGU motifs in the HCMV_ME sequence.
+There are a total of 318 GUGUG motifs in the HCMV_ME sequence.
+There are a total of 5 GUUGUGUG motifs in the HCMV_ME sequence.
+There are a total of 28 GUGUGUG motifs in the HCMV_ME sequence.
+The HCMV_ME genome is 235646 nucleotides-long.
+
+There are a total of 15292 GU motifs in the HCMV_TB sequence.
+There are a total of 3329 GUU motifs in the HCMV_TB sequence.
+There are a total of 1107 GUGU motifs in the HCMV_TB sequence.
+There are a total of 281 GUUGU motifs in the HCMV_TB sequence.
+There are a total of 301 GUGUG motifs in the HCMV_TB sequence.
+There are a total of 6 GUUGUGUG motifs in the HCMV_TB sequence.
+There are a total of 31 GUGUGUG motifs in the HCMV_TB sequence.
+The HCMV_TB genome is 229050 nucleotides-long.
+
+
+
+
+
+
+
