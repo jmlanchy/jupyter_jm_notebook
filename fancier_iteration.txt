@@ -1,0 +1,159 @@
+List of GUGUG motifs in Human immunodeficiency virus 1 (HIV-1) genome.
+
+101 : GUGUG
+103 : GUGUG
+118 : GUGUG
+161 : GUGUG
+594 : GUGUG
+4613 : GUGUG
+4981 : GUGUG
+5670 : GUGUG
+5899 : GUGUG
+8367 : GUGUG
+	There are a total of 10 GUGUG motifs in the Human immunodeficiency virus 1 (HIV-1) genome.
+	The Human immunodeficiency virus 1 (HIV-1) genome is 9181 nucleotides-long.
+
+List of GUGUG motifs in Middle East respiratory syndrome-related coronavirus (MERS-CoV) genome.
+
+294 : GUGUG
+537 : GUGUG
+883 : GUGUG
+1092 : GUGUG
+1288 : GUGUG
+2094 : GUGUG
+3172 : GUGUG
+4184 : GUGUG
+4266 : GUGUG
+4427 : GUGUG
+4632 : GUGUG
+5009 : GUGUG
+5011 : GUGUG
+5352 : GUGUG
+5401 : GUGUG
+6162 : GUGUG
+6780 : GUGUG
+7539 : GUGUG
+7560 : GUGUG
+8121 : GUGUG
+8244 : GUGUG
+8572 : GUGUG
+9388 : GUGUG
+9457 : GUGUG
+10218 : GUGUG
+10365 : GUGUG
+10450 : GUGUG
+10491 : GUGUG
+10923 : GUGUG
+10941 : GUGUG
+12430 : GUGUG
+13205 : GUGUG
+13294 : GUGUG
+14018 : GUGUG
+14327 : GUGUG
+14799 : GUGUG
+15273 : GUGUG
+15384 : GUGUG
+16438 : GUGUG
+16702 : GUGUG
+17157 : GUGUG
+18341 : GUGUG
+18866 : GUGUG
+19199 : GUGUG
+20434 : GUGUG
+20717 : GUGUG
+23054 : GUGUG
+23700 : GUGUG
+23820 : GUGUG
+23902 : GUGUG
+24769 : GUGUG
+25805 : GUGUG
+26977 : GUGUG
+27673 : GUGUG
+27707 : GUGUG
+29724 : GUGUG
+29962 : GUGUG
+30045 : GUGUG
+	There are a total of 58 GUGUG motifs in the Middle East respiratory syndrome-related coronavirus (MERS-CoV) genome.
+	The Middle East respiratory syndrome-related coronavirus (MERS-CoV) genome is 30119 nucleotides-long.
+
+List of GUGUG motifs in SARS coronavirus Tor2 genome.
+
+246 : GUGUG
+1489 : GUGUG
+1862 : GUGUG
+3074 : GUGUG
+3687 : GUGUG
+5445 : GUGUG
+5554 : GUGUG
+5556 : GUGUG
+5558 : GUGUG
+5690 : GUGUG
+6383 : GUGUG
+6682 : GUGUG
+10364 : GUGUG
+10775 : GUGUG
+11475 : GUGUG
+11477 : GUGUG
+13075 : GUGUG
+14758 : GUGUG
+15343 : GUGUG
+15373 : GUGUG
+15659 : GUGUG
+17438 : GUGUG
+18595 : GUGUG
+18985 : GUGUG
+18987 : GUGUG
+19160 : GUGUG
+20418 : GUGUG
+20420 : GUGUG
+20659 : GUGUG
+21046 : GUGUG
+21886 : GUGUG
+23059 : GUGUG
+23097 : GUGUG
+24360 : GUGUG
+24529 : GUGUG
+26232 : GUGUG
+27337 : GUGUG
+	There are a total of 37 GUGUG motifs in the SARS coronavirus Tor2 genome.
+	The SARS coronavirus Tor2 genome is 29751 nucleotides-long.
+
+List of GUGUG motifs in Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) genome.
+
+85 : GUGUG
+247 : GUGUG
+1230 : GUGUG
+1490 : GUGUG
+1521 : GUGUG
+2328 : GUGUG
+2421 : GUGUG
+2777 : GUGUG
+4439 : GUGUG
+4505 : GUGUG
+5515 : GUGUG
+5628 : GUGUG
+5760 : GUGUG
+10845 : GUGUG
+11386 : GUGUG
+11547 : GUGUG
+12513 : GUGUG
+14828 : GUGUG
+15413 : GUGUG
+15443 : GUGUG
+15729 : GUGUG
+16484 : GUGUG
+17508 : GUGUG
+19055 : GUGUG
+19846 : GUGUG
+20486 : GUGUG
+20488 : GUGUG
+20490 : GUGUG
+20729 : GUGUG
+21603 : GUGUG
+23544 : GUGUG
+24654 : GUGUG
+26360 : GUGUG
+27458 : GUGUG
+29687 : GUGUG
+	There are a total of 35 GUGUG motifs in the Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) genome.
+	The Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) genome is 29903 nucleotides-long.
