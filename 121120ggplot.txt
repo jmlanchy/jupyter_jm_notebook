@@ -1,0 +1,57 @@
+jpeg("AUmotifs.jpg", units="in", width=5, height=5, res=600,quality=75)
+	
+ggplot(data=filter(coronas,substr(coronas$motif,1,1)=="A"),aes(start,fill=motif))+geom_histogram(bins=300)+facet_grid(motif~.)+xlab("position of motif's 5' end")+ylab("number of motifs occurence per 100 nts windows")+theme(strip.text.y=element_text(size=10,angle=0),axis.title=element_text(size=20))
+
+dev.off()
+
+
+
+
+https://www.ncbi.nlm.nih.gov/genomes/GenomesGroup.cgi?taxid=11118
+
+SARS coronavirus 2 	(CoVid-19) NC_045512
+SARS coronavirus Tor2 	NC_004718
+MERS-related coronavirus 	NC_019843 	 	strain:HCoV-EMC; isolate:HCoV-EMC/2012
+Human coronavirus NL63 	NC_005831 	complete 	strain:Amsterdam I
+
+c("NC_045512"="SARS_HCov2_covid19","NC_004718"="SARS_HCov1_Tor2","NC_019843"="MERS_HCoV_EMC","NC_005831"="HCov_NL63")
+
+jpeg("covid19.jpg", units="in", width=5, height=5, res=600,quality=75)
+	
+ggplot(data=filter(coronas,genome==c("NC_045512","NC_004718","NC_019843")),aes(start)+geom_histogram(bins=300)+facet_wrap(genome~.)+xlab("position of motif's 5' end")+ylab("number of motifs occurence per 100 nts windows")+theme(strip.text.y=element_text(size=10,angle=0),axis.title=element_text(size=20))
+
+dev.off()
+
+ggplot(data=filter(coronas,genome==c("NC_045512","NC_004718","NC_019843")),aes(start))+geom_histogram(bins=300)
+
+
+ggplot(data=filter(coronas,genome=="NC_045512" | genome=="NC_004718" | genome=="NC_019843" | genome=="NC_005831"),aes(start))+geom_histogram(bins=300)
+
+
+jpeg("GUmotifs.jpg", units="in", width=5, height=5, res=600,quality=75)
+ggplot(data=filter(coronas,substr(coronas$motif,1,1)=="G"),aes(start,fill=motif))+geom_histogram(bins=300)+facet_grid(motif~.)+xlab("position of motif's 5' end")+ylab("number of motifs occurence per 100 nts windows")+theme(strip.text.y=element_text(size=10,angle=0),axis.title=element_text(size=10),axis.text.y=element_text(size=5))+ggtitle("Occurrence of GUNNGU motifs in 65 coronaviruses genomes")
+dev.off()
+dev.off()
+jpeg("GUmotifs.jpg", units="in", width=5, height=5, res=600,quality=75)
+ggplot(data=filter(coronas,substr(coronas$motif,1,1)=="G"),aes(start,fill=motif))+geom_histogram(bins=300)+facet_grid(motif~.)+xlab("coronavirus RNA genome 5' to 3'")+ylab("number of motifs occurence per 100 nts windows")+theme(strip.text.y=element_text(size=10,angle=0),axis.title=element_text(size=10),axis.text.y=element_text(size=5))+ggtitle("Occurrence of GUNNGU motifs in 65 coronaviruses genomes")
+dev.off()
+jpeg("GUmotifs.jpg", units="in", width=5, height=5, res=600,quality=75)
+ggplot(data=filter(coronas,substr(coronas$motif,1,1)=="G"),aes(start,fill=motif))+geom_histogram(bins=300)+facet_grid(motif~.)+xlab("coronavirus RNA genome 5' to 3'")+ylab("number of motifs occurence per 100 nts windows")+theme(strip.text.y=element_text(size=10,angle=0),axis.title=element_text(size=10),axis.text.y=element_text(size=5))+ggtitle("Occurrence of GUNNGU motifs in 65 coronaviruses")
+dev.off()
+jpeg("AUmotifs.jpg", units="in", width=5, height=5, res=600,quality=75)
+ggplot(data=filter(coronas,substr(coronas$motif,1,1)=="A"),aes(start,fill=motif))+geom_histogram(bins=300)+facet_grid(motif~.)+xlab("coronavirus RNA genome 5' to 3'")+ylab("number of motifs occurence per 100 nts windows")+theme(strip.text.y=element_text(size=10,angle=0),axis.title=element_text(size=10),axis.text.y=element_text(size=5))+ggtitle("Occurrence of AUNNGU motifs in 65 coronaviruses")
+dev.off()
+ggplot(data=filter(coronas,genome=="NC_045512"),aes(start,fill=motif))+geom_histogram(bins=300)+facet_grid(motif~.)+xlab("position of motif's 5' end")+ylab("number of motifs occurence per 100 nts windows")+theme(strip.text.y=element_text(size=10,angle=0),axis.title=element_text(size=20))
+ggplot(data=filter(coronas,genome=="NC_045512"),aes(start))+geom_histogram(bins=300)+facet_grid(motif~.)+xlab("position of motif's 5' end")+ylab("number of motifs occurence per 100 nts windows")+theme(strip.text.y=element_text(size=10,angle=0),axis.title=element_text(size=20))
+ggplot(data=filter(coronas,genome=="NC_045512"),aes(start))+geom_histogram(bins=300)+xlab("position of motif's 5' end")+ylab("number of motifs occurence per 100 nts windows")
+ggplot(data=filter(coronas,genome==c("NC_045512","NC_004718","NC_019843")),aes(start)+geom_histogram(bins=300)+facet_wrap(genome~.)+xlab("position of motif's 5' end")+ylab("number of motifs occurence per 100 nts windows")+theme(strip.text.y=element_text(size=10,angle=0),axis.title=element_text(size=20))
+)
+ggplot(data=filter(coronas,genome==c("NC_045512","NC_004718","NC_019843")),aes(start)+geom_histogram(bins=300)+facet_wrap(genome~.)
+ggplot(data=filter(coronas,genome==c("NC_045512","NC_004718","NC_019843")),aes(start)+geom_histogram(bins=300)
+ggplot(data=filter(coronas,genome==c("NC_045512","NC_004718","NC_019843")),aes(start))+geom_histogram(bins=300)
+ggplot(data=filter(coronas,genome=="NC_045512" | genome=="NC_004718" | genome=="NC_019843"),aes(start))+geom_histogram(bins=300)
+ggplot(data=filter(coronas,genome=="NC_045512" | genome=="NC_004718" | genome=="NC_019843"),aes(start))+geom_histogram(bins=300)+facet_wrap(genome~.)
+ggplot(data=filter(coronas,genome=="NC_045512" | genome=="NC_004718" | genome=="NC_019843"),aes(start))+geom_histogram(bins=300)+facet_grid(genome~.)
+ggplot(data=filter(coronas,genome=="NC_045512" | genome=="NC_004718" | genome=="NC_019843" | genome=="NC_005831"),aes(start))+geom_histogram(bins=300)+facet_grid(genome~.)
+history()
+
