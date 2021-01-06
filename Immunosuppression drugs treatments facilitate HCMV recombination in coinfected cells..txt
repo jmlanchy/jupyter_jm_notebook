@@ -1,0 +1,55 @@
+##############################################################
+From the National Kidney Foundation website:
+
+What are immunosuppressants?
+Immunosuppressants are drugs or medicines that lower the body's ability to reject a transplanted organ.
+Another term for these drugs is anti-rejection drugs. There are 2 types of immunosuppressants:
+    Induction drugs: Powerful antirejection medicine used at the time of transplant
+    Maintenance drugs: Antirejection medications used for the long term.
+(...)
+There are usually 4 classes of maintenance drugs:
+    Calcineurin Inhibitors: Tacrolimus and Cyclosporine (a.k.a. CsA)
+    Antiproliferative agents: Mycophenolate Mofetil, Mycophenolate Sodium and Azathioprine
+    mTOR inhibitor: Sirolimus (a.k.a. Rapamycin)
+    Steroids: Prednisone
+
+##############################################################
+########## 'helping to make the case' references found so far:
+##############################################################
+
+ABOUT Cyclosporine (a.k.a. CsA)
+
+CsA can induce DNA double-strand breaks: implications for BMT regimens particularly for individuals with defective DNA repair
+M O'Driscoll & P A Jeggo 
+Bone Marrow Transplantation (2008) 41:983–989 
+
+ABOUT Azathioprine
+
+Modulation of genotoxicity of azathioprine by intracellular glutathione in hepatocytes
+Kazumitsu Nagafuchi and Kohji Miyazaki 
+J Cancer Res Clin Oncol (1991) 117:321-325
+
+
+ABOUT Sirolimus (a.k.a. Rapamycin)
+
+The mTOR Inhibitor Rapamycin Suppresses DNA Double-Strand Break Repair
+Honghong Chen, Zhefu Ma, Robert P. Vanderwaal, Zhihui Feng, Ignacio Gonzalez-Suarez, Shenming Wang, Jiuqin Zhang, Joseph L. Roti Roti, Susana Gonzalo, and Junran Zhang
+Radiat Res. (2011) 175(2):214–224.
+
+
+
+
+
+
+$$$$ "positive" action of mycophenolate against HCMV (?) $$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+Clin Transplant (1996) Feb;10(1 Pt 2):77-84.
+Purine metabolism and immunosuppressive effects of mycophenolate mofetil (MMF)
+A C Allison, E M Eugui
+Mycophenolate mofetil (MMF) is a novel immunosuppressive drug that shows promise in preventing the rejection of organ allografts and in the treatment of ongoing rejection.
+Orally administered MMF is hydrolyzed by esterases in the intestine and blood to release mycophenolic acid (MPA), a potent, selective, noncompetitive inhibitor of the type 2 isoform of inosine monophosphate dehydroxygenase (IMPDH) expressed in activated human T and B lymphocytes.
+By inhibiting IMPDH, MPA depletes the pool of dGTP required for DNA synthesis.
+MPA has a more potent cytostatic effect on lymphocytes than on other cell types, and this is the principal mechanism by which immunosuppressive activity is exerted.
+MPA also depletes pools of GTP in human lymphocytes and monocytes,
+thereby inhibiting the synthesis of fucose- and mannose-containing saccharide components
+of membrane glycoproteins. 

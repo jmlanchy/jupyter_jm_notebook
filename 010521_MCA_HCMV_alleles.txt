@@ -1,0 +1,9 @@
+alleles2 <- alleles %>% mutate(UL75 = case_when(X37==" H" & X180==" G" ~ 1,X37==" K" & X180==" E" ~ 2,X37==" H" & X180==" E" ~ 3,X37==" K" & X180==" G" ~ 4))
+
+for (i in 1:4) {plot(poison.active[,i], main=colnames(poison.active)[i],ylab = "Count", col="steelblue", las = 2)}
+
+fviz_mca_biplot(res.mca, repel = TRUE, ggtheme = theme_minimal())
+
+fviz_mca_var(res.mca, choice = "mca.cor", repel = TRUE, ggtheme = theme_minimal())
+
+
